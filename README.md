@@ -1,5 +1,5 @@
 # BoilingFrogs
-GCHQ's Boiling Frogs paper on software development and organisational change in the face of disruption #boilingfrogs
+GCHQ's internal Boiling Frogs research paper on software development and organisational change in the face of disruption #boilingfrogs
 
 ![GCHQ: Boiling Frogs](https://github.com/GovernmentCommunicationsHeadquarters/BoilingFrogs/blob/master/frogs.jpg "GCHQ: Boiling Frogs") 
 
