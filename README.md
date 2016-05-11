@@ -5,7 +5,7 @@ GCHQ's internal Boiling Frogs research paper on software development and organis
 
 The pace of disruptive change is increasing, from the rise of cloud technology, social business, the Internet of Things and others. We feel it as much as other government departments and so we offer this internal research paper publicly, not to present policy or guidelines, but to stimulate debate.
 
-So why the title "Boiling Frogs?" The story goes that if a frog is placed in a sauspan of cold water, which is slowly heated, the frog adapts its body temperature to the changing heat of the water and gradually goes to sleep. The frog goes to sleep at 40 ˚C, unaware that at 100 ˚C it will boil! However, if the frog is placed in already boiling water it immediately jumps out to safety.
+So why the title "Boiling Frogs?" The story goes that if a frog is placed in a saucepan of cold water, which is slowly heated, the frog adapts its body temperature to the changing heat of the water and gradually goes to sleep. The frog goes to sleep at 40 ˚C, unaware that at 100 ˚C it will boil! However, if the frog is placed in already boiling water it immediately jumps out to safety.
 
 The metaphor illustrates that although people might think they are very good at adapting to the changing world, they don't necessarily recognise the need to jump out of that world completely to survive for the long term. Technology organisations risk being blissfully unaware that the world is changing so dramatically and that their tatical adaptions are simply not working.
 
