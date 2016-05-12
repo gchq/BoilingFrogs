@@ -15,7 +15,7 @@ Simon Wardley, CSC Leading Edge Forum, offers his view as an external reviewer:
 
 >This document provides a glimpse into some of those thought processes and practices from cell based structures to outcome based techniques to the use of multiple methods with the hybrid dynamic model to culture. For those in business, it gives a welcome opportunity to reflect on how we organise and run ourselves and hopefully, more than a few lessons to learn from."
 
-You can download the document [from github here](./GCHQ_Boiling_Frogs.pdf).
+You can download the document [from github here](https://github.com/GovernmentCommunicationsHeadquarters/BoilingFrogs/raw/master/GCHQ_Boiling_Frogs.pdf).
 
 ### #boilingfrogs
 
