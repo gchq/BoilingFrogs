@@ -7,7 +7,7 @@ The pace of disruptive change is increasing, from the rise of cloud technology, 
 
 So why the title "Boiling Frogs?" The story goes that if a frog is placed in a saucepan of cold water, which is slowly heated, the frog adapts its body temperature to the changing heat of the water and gradually goes to sleep. The frog goes to sleep at 40 ˚C, unaware that at 100 ˚C it will boil! However, if the frog is placed in already boiling water it immediately jumps out to safety.
 
-The metaphor illustrates that although people might think they are very good at adapting to the changing world, they don't necessarily recognise the need to jump out of that world completely to survive for the long term. Technology organisations risk being blissfully unaware that the world is changing so dramatically and that their tatical adaptions are simply not working.
+The metaphor illustrates that although people might think they are very good at adapting to the changing world, they don't necessarily recognise the need to jump out of that world completely to survive for the long term. Technology organisations risk being blissfully unaware that the world is changing so dramatically and that their tactical adaptions are simply not working.
 
 Simon Wardley, CSC Leading Edge Forum, offers his view as an external reviewer:
 
