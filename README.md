@@ -19,4 +19,10 @@ You can download the document [from github here](https://github.com/GovernmentCo
 
 ### #boilingfrogs
 
+## Changelog
+
+1.1: Updated visual design via Tom Loosemore at Co-op Digital (content identical to v1.0)
+
+1.0: Initial release from GCHQ
+
 
